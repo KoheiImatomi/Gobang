@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">五目並べ</string>
+    <string name="menu_newgame">新しいゲームを始める</string>
+    <string name="menu_undo">一手戻す</string>
+    <string name="state_ready">START!</string>
+    <string name="state_result1">GAMEOVER</string>
+    <string name="state_result2">WINNER : </string>
+
+</resources>
